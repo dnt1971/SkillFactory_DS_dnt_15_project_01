@@ -38,7 +38,7 @@
 
 ### Краткая информация о данных
 Данные в формате csv находятся [здесь](https://drive.google.com/file/d/1wvld459vsvk0I38geF59GB-9AelX7i5r/view?usp=drive_link). 
-Курсы валют находятся [здесь](https://drive.google.com/file/d/1flWo9MqY704_M5x49u5j91QZ8D-V538k/view?usp=drive_link)
+Курсы валют находятся [здесь](https://drive.google.com/file/d/1wvld459vsvk0I38geF59GB-9AelX7i5r/view?usp=drive_link)
 
 :arrow_up:[к оглавлению](#оглавление)
 
